@@ -67,7 +67,7 @@ console.log(color(''), color('SCRIPT BY DRIPS', 'red'))
 console.log(color( ''), color('https://wa.me/+447441437150','cyan'))
 Drips.hr();
 Drips.banner(`DRIPS ZIM BOT OWNER`)
-Drips.ok('WELCOME TO ZIMBOT')
+Drips.ok('WELCOME TO Maraya-MD-V1')
 Drips.done('I WROTE THIS SCRIPT BY MYSELF')
 Drips.info('YOU WANNA CONTRUBUTE FEEL FREE TO CONTACT ME, BEING FRIENDLY IS MY LANGUAGE')
 Drips.error('')
